@@ -8,7 +8,7 @@ I will share what i learn each day here on this *page*.:smile:
 2. [class-02](https://mobash96.github.io/Reading-notes-201/class-02) 
 3. [class-03](https://mobash96.github.io/Reading-notes-201/class-03) 
 4. [class-04](https://mobash96.github.io/Reading-notes-201/class-04) 
-5. []() 
+5. [class-05](https://mobash96.github.io/Reading-notes-201/class-05) 
 6. []() 
 7. []() 
 8. []() 
