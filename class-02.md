@@ -34,9 +34,7 @@ Expressions evaluate into a single value. Expressions rely on operators to calcu
 + Conditional statements allow your code to make decisions about what to do next. 
 Comparison operators (===, !==, ==, !=, <, >, =>) are used to compare two operands. 
 Logical operators allow you to combine more than one set of comparison operators. i f ...el se statements allow you to run one set of code if a condition is true, and another if it is false. 
-swi tch statements allow you to compare a value against possible outcomes (and also provides a default option if none match). 
-Data types can be coerced from one type to another. All values evaluate to either truthy or falsy. 
-There are three types of loop: for, whi 1 e, and do ...whi 1 e. Each repeats a set of statements. 
+
 
 
 
