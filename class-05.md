@@ -1,4 +1,4 @@
-# Reading-notes-201-class04
+# Reading-notes-201-class05
 ## From the Duckett HTML book:
 + **IMAGES**: <br>
 + The <img> element is used to add images to a
