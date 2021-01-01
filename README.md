@@ -1,5 +1,5 @@
 # Code 201 Reading Notes
-Hi all, my name is **Mohammad Elbashabsheh**, and this is my scand day as software development student.
+Hi all, my name is **Mohammad Elbashabsheh**, and this is my first week as software development student at class-201.
 I will share what i learn each day here on this *page*.:smile:
 
 ## Table of Contents
