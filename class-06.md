@@ -1,4 +1,4 @@
-#Reading-notes-201-class06
+# Reading-notes-201-class06
 ## From the Duckett JS book
 + **Object Literals**:<br>
 + Object literal should be used if you want to create objects on the go with no intention of copying values to another object or maybe mapping one object to another.
