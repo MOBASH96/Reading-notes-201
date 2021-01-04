@@ -1,4 +1,4 @@
-# Reading-notes-201-class06 
+# Reading-notes-201-class07
 ## From the Duckett HTML book:
 + **TABLES**:
 + The <table> element is used to add tables to a web
