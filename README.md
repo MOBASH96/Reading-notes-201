@@ -12,7 +12,7 @@ I will share what i learn each day here on this *page*.:smile:
 6. [class-06](https://mobash96.github.io/Reading-notes-201/class-06) 
 7. [class-07](https://mobash96.github.io/Reading-notes-201/class-07) 
 8. [class-08](https://mobash96.github.io/Reading-notes-201/class-08) 
-9. []() 
+9. [class-09](https://mobash96.github.io/Reading-notes-201/class-09) 
 10. []() 
 11. []() 
 12. []() 
