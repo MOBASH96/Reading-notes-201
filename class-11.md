@@ -1,4 +1,4 @@
-# Reading-notes-201-class09
+# Reading-notes-201-class11
 ## From the Duckett HTML book:
 + **How to change image size in CSS?**<br> 
 + Sometimes, it is required to fit an image into a certain given dimension. We can resize the image by specifying the width and height of an image.
