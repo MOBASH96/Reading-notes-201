@@ -8,7 +8,7 @@ but they are not supported in many browsers.And You can control the size of an i
 Specifying image sizes helps pages to load more smoothly because the HTML and CSS code will often load before the images, 
 and telling the browser how much space to leave for an image allows it to render the rest of the page without waiting for the image to download.
 
-> The object-fit property is generally applied to image or video. This property defines how an element responds to the width and height of its container. Mainly there are five values of object-fit property such as fill, contain, cover, none, scale-down, initial, and inherit. The default value of this property is “fill”.
++ The object-fit property is generally applied to image or video. This property defines how an element responds to the width and height of its container. Mainly there are five values of object-fit property such as fill, contain, cover, none, scale-down, initial, and inherit. The default value of this property is “fill”.
 
 
 # How You Can Control of Width and Height Of An Image In Css?
@@ -16,16 +16,7 @@ and telling the browser how much space to leave for an image allows it to render
 - The width property specifies the width of an element, and the height property specifies the height of an element.
 - The width and height of the image can be specified by applying these properties to the IMG element.
 
-*Examples:*
 
-``` ruby
-div { width: auto;
-text-align: center;
-padding: 15px; border: 3px solid red;
-} img {
-max-width: 100%;
-height: auto; }
-```
 # Aligning images in CSS
 > Rather than using the < img > element’s align attribute, web page authors are increasingly using the float property to align images. There are two ways that this is commonly achieved:
 
